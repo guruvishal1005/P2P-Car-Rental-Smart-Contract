@@ -1,3 +1,4 @@
+![alt text](image-1.png)
 # P2P Car Rental Smart Contract (Aptos Move)
 
 This repository contains a simple peer-to-peer car rental smart contract written in the Move language for the Aptos blockchain. The contract demonstrates how decentralized applications can manage rental agreements and payments directly on-chain without intermediaries.
